@@ -260,7 +260,7 @@
 					9EED786B1AA0F03F00961BC2 = {
 						CreatedOnToolsVersion = 6.1.1;
 						DevelopmentTeam = HLGGTJ4M3A;
-						LastSwiftMigration = 0910;
+						LastSwiftMigration = 1130;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -269,14 +269,14 @@
 					};
 					9EED78801AA0F03F00961BC2 = {
 						CreatedOnToolsVersion = 6.1.1;
-						LastSwiftMigration = 0910;
+						LastSwiftMigration = 1130;
 						TestTargetID = 9EED786B1AA0F03F00961BC2;
 					};
 				};
 			};
 			buildConfigurationList = 9EED78671AA0F03F00961BC2 /* Build configuration list for PBXProject "Alarm-ios-swift" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -487,7 +487,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = LongGames.Alarm.ios.swift;
 				PRODUCT_NAME = "Alarm-ios-swift";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -502,7 +502,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = LongGames.Alarm.ios.swift;
 				PRODUCT_NAME = "Alarm-ios-swift";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -523,7 +523,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "LongGames.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "Alarm-ios-swiftTests";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Alarm-ios-swift.app/Alarm-ios-swift";
 			};
 			name = Debug;
@@ -541,7 +541,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "LongGames.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "Alarm-ios-swiftTests";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Alarm-ios-swift.app/Alarm-ios-swift";
 			};
 			name = Release;
